@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Popular Movies</string>
+    <string name="main_title">"Popular Movies "</string>
+
+    <string name="content_authority">com.practice.udacity.popularmovieapp</string>
+
+
+    <string name="action_sort_order">Sort Order</string>
+    <string name="action_highest_rated">Highest Rated</string>
+    <string name="action_most_popular">Most Popular</string>
+
+    <string name="pref_sort_order_key">sort_order</string>
+    <string name="pref_sort_order">most_popular</string>
+
+    <string name="title_activity_detail">Detail</string>
+
+    <string name="movie_title">Title</string>
+    <string name="movie_plot">Plot Synopsis</string>
+    <string name="release_date">Release Date</string>
+    <string name="movie_poster">Poster</string>
+    <string name="user_rating">User Rating</string>
+
+    <string name="not_available">N/A</string>
+    <string name="network_error">Network unavailable.</string>
+    <string name="movie_key">movie</string>
+    <string name="movie_trailers">Trailers</string>
+    <string name="movie_reviews">Reviews</string>
+    <string name="action_favorites">Favorites</string>
+    <string name="action_share">Share</string>
+
+</resources>

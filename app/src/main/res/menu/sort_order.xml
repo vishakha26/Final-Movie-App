@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item android:id="@+id/action_sort_order" android:title="@string/action_sort_order"
+        android:orderInCategory="100" app:showAsAction="always"
+        android:icon="@drawable/ic_menu_sort">
+        <menu>
+            <item android:id="@+id/action_highest_rated"
+                android:title="@string/action_highest_rated"
+                />
+            <item android:id="@+id/action_most_popular"
+                android:title="@string/action_most_popular"
+                />
+            <item android:id="@+id/action_favorites"
+                android:title="@string/action_favorites"
+                />
+        </menu>
+    </item>
+
+
+</menu>
